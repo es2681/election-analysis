@@ -28,3 +28,4 @@ The purpose of this analysis is to assist Tom and Seth at the Colorado Board of 
   - 6.7% of voters (24,801 people) live in Arapahoe County
 
 ## Summary
+This program can easily be adapted for use in any type of election or polling survey. 
